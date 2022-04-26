@@ -12,6 +12,10 @@
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
+.copyright {
+  color:#fff;
+  font-size: 10px;
+}
 
 .about-me {
   text-transform: uppercase;
