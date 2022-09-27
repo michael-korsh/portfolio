@@ -50,8 +50,12 @@
   color: #ECEEEC;
 }
 
-.investigation a, .data a {
-  color: #6A8E4E;
+.investigation a {
+  color: #5B9279;
+}
+
+.data a {
+  color: #8FCB9B;
 }
 
 a {
