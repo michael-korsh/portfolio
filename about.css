@@ -68,12 +68,8 @@
   color: #ECEEEC;
 }
 
-.investigation a{
-  color: #5B9279;
-}
-
-.data a {
-  color: #8FCB9B;
+.investigation a, .data a{
+  color: #8fb996;
 }
 
 a {
@@ -81,7 +77,7 @@ a {
 }
 
 a:hover {
-  color:#8FCB9B;
+  color:#ECEEEC;
 }
 
 .experience {
