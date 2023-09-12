@@ -41,6 +41,26 @@
   letter-spacing: 1rem;
 }
 
+.series {
+  text-transform: uppercase;
+  font-weight: 900;
+  text-align: left;
+  letter-spacing: .3rem;
+  font-size: 36px;
+  padding-bottom: 0%;
+}
+
+.series-org {
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: .1rem;
+  font-size: 18px;
+  padding: 0%;
+  margin: 0%;
+  font-style: italic;
+}
+
 .publication {
   font-weight: 900; 
   text-transform:uppercase;
