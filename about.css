@@ -12,20 +12,20 @@
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #063122;
+  color: #353D2F;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
 #download-bttn {
-  background-color: #042117;
-  color: #fefae0;
+  background-color: #fff;
+  color: #063122;
   text-transform: uppercase;
   font-weight: bold;
 }
 
 #download-bttn:hover {
-  background-color: #fefae0;
-  color: #042117;
+  background-color: #353D2F;
+  color: #fff;
   text-transform: uppercase;
   font-weight: bold;
 }
