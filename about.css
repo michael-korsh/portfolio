@@ -92,8 +92,20 @@
   color: #6BA368;
 }
 
-a {
+a{
   color: #ECEEEC;
+}
+
+.sub-link {
+  color: #ECEEEC;
+}
+
+.dateline a{
+  color: #ECEEEC;
+}
+
+.additional-link{
+  color: #6BA368;
 }
 
 a:hover {
