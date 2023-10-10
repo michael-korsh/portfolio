@@ -41,6 +41,13 @@
   letter-spacing: 1rem;
 }
 
+.contributed {
+  text-align: left;
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
 .series {
   text-transform: uppercase;
   font-weight: 900;
@@ -76,13 +83,6 @@
 
 .dateline {
   text-align: left;
-}
-
-.contributed {
-  text-align: left;
-  font-style: italic;
-  text-transform: uppercase;
-  font-size: 14px;
 }
 
 .story a:hover {
