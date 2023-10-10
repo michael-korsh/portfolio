@@ -108,6 +108,10 @@ a{
   color: #6BA368;
 }
 
+.sub-link a:hover{
+  color: #ECEEEC;
+}
+
 a:hover {
   color:#ECEEEC;
 }
