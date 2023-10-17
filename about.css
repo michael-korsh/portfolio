@@ -114,6 +114,10 @@ a{
   color: #6BA368;
 }
 
+.additional-link:hover{
+  color: #ECEEEC;
+}
+
 .sub-link:hover{
   color: #6BA368;
 }
