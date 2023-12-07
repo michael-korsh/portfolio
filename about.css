@@ -5,7 +5,7 @@
  */
 
  * {
-  background-color: #353D2F;
+  background-color: #0b2b26;
 }
 
 
@@ -19,13 +19,13 @@
 
 #download-bttn {
   background-color: #fff;
-  color: #063122;
+  color: #0b2b26;
   text-transform: uppercase;
   font-weight: bold;
 }
 
 #download-bttn:hover {
-  background-color: #353D2F;
+  background-color: #0b2b26;
   color: #fff;
   text-transform: uppercase;
   font-weight: bold;
