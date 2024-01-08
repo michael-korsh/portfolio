@@ -8,14 +8,22 @@
   background-color: #0b2b26;
 }
 
-
-
 /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #353D2F;
   text-shadow: none; /* Prevent inheritance from `body` */
+}
+
+
+.accordion div, .accordion button, .accordion button:active .accordion button:focus{
+  background: transparent;
+  border: none;
+}
+
+.accordion-button {
+  color:#fff;
 }
 
 #download-bttn {
@@ -50,7 +58,7 @@
   text-transform: uppercase;
 }
 
-.series {
+.series{
   text-transform: uppercase;
   font-weight: 900;
   text-align: left;
