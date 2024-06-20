@@ -8,6 +8,11 @@
   background-color: #1e1e1e;
 }
 
+footer {
+  background: transparent;
+  border: none;
+}
+
 /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
